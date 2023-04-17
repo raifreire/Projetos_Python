@@ -1,6 +1,6 @@
 <<<<<<< HEAD >>>>>>>>>
 
-# Python_Projects
+# Projetos_Python
 
 * Repositótiro reservado para publicação de conteúdos sobre python, para acompanhar minha evolução.
 
