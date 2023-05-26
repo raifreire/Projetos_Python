@@ -10,8 +10,7 @@ class LoginForms(forms.Form):
             "class":"form-control",
             "placeholder":"Ex.: João Silva"
             }
-        )
-        
+        )        
     )
     senha = forms.CharField(
         label='Senha:',
